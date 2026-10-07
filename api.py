@@ -46,4 +46,3 @@ def predire(Data: type_var):
 if __name__ == "__main__":
     uvicorn.run(app)
 # Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-# Lien : https://fr.pornhub.com/view_video.php?viewkey=6792551517f17
